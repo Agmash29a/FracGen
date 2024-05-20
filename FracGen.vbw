@@ -1,0 +1,7 @@
+FORM_MainScreen = 9, 57, 509, 377, , 22, 22, 522, 342, C
+MODULE_Globals = 44, 44, 456, 364, 
+FORM_Settings = 88, 88, 500, 408, , 66, 66, 478, 386, C
+CLASS_Settings = 0, 0, 0, 0, C
+CLASS_ComplexNumber = 0, 0, 0, 0, C
+CLASS_ComplexArithmetic = 0, 0, 0, 0, C
+CLASS_Mandelbrot = 0, 0, 0, 0, C
